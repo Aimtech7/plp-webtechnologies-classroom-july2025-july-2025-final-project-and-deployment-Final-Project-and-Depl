@@ -4,7 +4,7 @@ EDUWELL is a modern, responsive landing page template designed for educational p
 It includes sections for navigation, hero banner, categories, popular courses, FAQs, testimonials, and a footer with contact details.
 
 ---
-
+LIVE HOSTED SITE LINK:https://plp-webtechnologies-classroom-july2-five.vercel.app/
 ## 📂 Project Structure
 
 ```
