@@ -5,6 +5,7 @@ It includes sections for navigation, hero banner, categories, popular courses, F
 
 ---
 LIVE HOSTED SITE LINK:https://plp-webtechnologies-classroom-july2-five.vercel.app/
+gitpages Link: https://aimtech7.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 ## 📂 Project Structure
 
 ```
